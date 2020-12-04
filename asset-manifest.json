@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typist/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/typist/static/js/main.e1ba886f.chunk.js",
+    "main.js.map": "/typist/static/js/main.e1ba886f.chunk.js.map",
+    "runtime-main.js": "/typist/static/js/runtime-main.0956e756.js",
+    "runtime-main.js.map": "/typist/static/js/runtime-main.0956e756.js.map",
+    "static/js/2.52790b4d.chunk.js": "/typist/static/js/2.52790b4d.chunk.js",
+    "static/js/2.52790b4d.chunk.js.map": "/typist/static/js/2.52790b4d.chunk.js.map",
+    "static/js/3.3ef12cfd.chunk.js": "/typist/static/js/3.3ef12cfd.chunk.js",
+    "static/js/3.3ef12cfd.chunk.js.map": "/typist/static/js/3.3ef12cfd.chunk.js.map",
+    "index.html": "/typist/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/typist/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.52790b4d.chunk.js.LICENSE.txt": "/typist/static/js/2.52790b4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/typist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0956e756.js",
+    "static/js/2.52790b4d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e1ba886f.chunk.js"
+  ]
+}
