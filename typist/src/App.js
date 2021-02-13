@@ -70,7 +70,7 @@ class App extends Component {
             ></textarea>
             <Speed sec={this.state.sec} symbols={this.state.symbols}/>
             <div className="text-right">
-              <button className="btn btn-light" onClick={this.onRestart}>Restart</button>
+              <button className="btn btn-danger" onClick={this.onRestart}>Restart</button>
             </div>
           </div>
         </div>

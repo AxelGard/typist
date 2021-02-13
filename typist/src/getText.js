@@ -1,12 +1,18 @@
+
+
 export default () => {
 
+    let words = require('an-array-of-english-words')
+    let text = '';
+    for (var i = 0; i < 50; i++){
+        let word = words[Math.floor(Math.random()*words.length)];
+        if(word.length < 6){
+            text += word + " "
+        }
+        else {
+            i--;
+        } 
+    }
 
-    const texts = [
-        'test1',
-        'test2',
-        'test3'
-    ]
-
-    return texts[Math.floor(Math.random()*texts.length)];
-
+    return text.slice(0, -1);
 }
