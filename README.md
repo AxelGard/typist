@@ -1,5 +1,5 @@
 # typist
-A simpel typing test website
+A simpel typing test website, mainly for learning react. 
 
 
 
